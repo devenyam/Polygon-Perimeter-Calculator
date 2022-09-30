@@ -26,49 +26,41 @@ public class Main {
         public float  Triangle() {
             numOfSide = 3;
             return calcPerimeter();
-//            return numOfSide * getLength();
         }
 
         public float Quadrilateral() {
             numOfSide = 4;
             return calcPerimeter();
-//            return numOfSide * getLength();
         }
 
         public float Pentagon() {
             numOfSide = 5;
             return calcPerimeter();
-//            return (float) numOfSide * getLength();
         }
 
         public float Hexagon() {
             numOfSide = 6;
             return calcPerimeter();
-//            return (float) numOfSide * getLength();
         }
 
         public float Heptagon() {
             numOfSide = 7;
             return calcPerimeter();
-//            return (float) numOfSide * getLength();
         }
 
         public float Octagon() {
             numOfSide = 8;
             return calcPerimeter();
-//            return (float) numOfSide * getLength();
         }
 
         public float Nonagon() {
             numOfSide = 9;
             return calcPerimeter();
-//            return (float) numOfSide * getLength();
         }
 
         public float Decagon() {
             numOfSide = 10;
             return calcPerimeter();
-//            return (float) numOfSide * getLength();
         }
 
         public void  polygonList() {
